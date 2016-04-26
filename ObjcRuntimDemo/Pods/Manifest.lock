@@ -1,0 +1,10 @@
+PODS:
+  - TLKeyboardUtil (0.0.2)
+
+DEPENDENCIES:
+  - TLKeyboardUtil (~> 0.0.2)
+
+SPEC CHECKSUMS:
+  TLKeyboardUtil: 54fe102ef37367f42758a8e665b1a33693ba38ea
+
+COCOAPODS: 0.39.0
